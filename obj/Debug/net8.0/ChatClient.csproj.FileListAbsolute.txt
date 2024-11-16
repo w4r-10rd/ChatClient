@@ -1,0 +1,14 @@
+F:\Documents\dotnet_cSharp\ChatClient\bin\Debug\net8.0\ChatClient.exe
+F:\Documents\dotnet_cSharp\ChatClient\bin\Debug\net8.0\ChatClient.deps.json
+F:\Documents\dotnet_cSharp\ChatClient\bin\Debug\net8.0\ChatClient.runtimeconfig.json
+F:\Documents\dotnet_cSharp\ChatClient\bin\Debug\net8.0\ChatClient.dll
+F:\Documents\dotnet_cSharp\ChatClient\bin\Debug\net8.0\ChatClient.pdb
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfoInputs.cache
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.AssemblyInfo.cs
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.csproj.CoreCompileInputs.cache
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.dll
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\refint\ChatClient.dll
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.pdb
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ChatClient.genruntimeconfig.cache
+F:\Documents\dotnet_cSharp\ChatClient\obj\Debug\net8.0\ref\ChatClient.dll
